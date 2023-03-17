@@ -17,7 +17,7 @@ To use the function, follow the steps below:
 $ vim test.txt
 ```
 2. You can create your own main() or use my main() which I have included/commented out in the get_next_line.c file.
-3. Finally, replace '<size>' with the buffer size you want to use. Compile using the following command:
+3. Finally, replace "<size>" with the buffer size you want to use. Compile using the following command:
 ```bash
 $ gcc -Wall -Werror -Wextra -D BUFFER_SIZE=<size> get_next_line.c get_next_line_utils.c
 ```
