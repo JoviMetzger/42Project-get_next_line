@@ -6,7 +6,7 @@ This repository contains an implementation of the "get_next_line" function, whic
 
 The get_next_line function reads from a file descriptor and returns the next line in the file. The function is designed to be called repeatedly, so that it reads one line at a time until the end of the file is reached. The function is implemented in C and uses the standard library functions read and malloc. The function must work as expected both when reading a file and when reading from the standard input. 
 BUFFER_SIZE is defined in the headerfile, set by default to 42.
-Note: this Project does not contain a Makefile.
+***Note:** this Project does not contain a Makefile.*
 
 ## Installation
 
