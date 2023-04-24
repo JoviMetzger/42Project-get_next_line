@@ -22,6 +22,10 @@ $ vim test.txt
 $ gcc -Wall -Werror -Wextra -D BUFFER_SIZE=<size> get_next_line.c get_next_line_utils.c
 ```
 
+## Resources
+
+This [document](https://velog.io/@friend463/libft-bonus) explains and provides visualizations of how the 'get_next_line' function operates.
+
 ## Subject
 
 You can find the subject for this project [here](https://cdn.intra.42.fr/pdf/pdf/73991/en.subject.pdf).
